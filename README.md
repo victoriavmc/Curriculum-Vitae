@@ -5,4 +5,4 @@ El CV está diseñado en PHP utilizando Tailwind CSS para la parte visual. La im
 ![VictoriaVMC-CV-Principal](https://github.com/victoriavmc/Curriculum-Vitae/blob/master/Readme/Principal.png)
 
 ## Descarga
-![VictoriaVMC-CV-Descarga] (https://github.com/victoriavmc/Curriculum-Vitae/blob/master/Readme/Descargado.jpeg)
+![VictoriaVMC-CV-Descarga](https://github.com/victoriavmc/Curriculum-Vitae/blob/master/Readme/Descargado.jpeg)
